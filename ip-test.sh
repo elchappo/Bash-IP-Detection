@@ -7,7 +7,7 @@ LOG=${PWD}/"ip.log"
 MAIL="/bin/mail"
 
 # email subject
-SUBJECT="SLACK - Latest IP address"
+SUBJECT="Latest IP address"
 
 # Email To ?
 EMAIL="zareba.pawel@gmail.com"

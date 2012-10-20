@@ -1,0 +1,2 @@
+# IP check
+*/5 * * * * /home/scripts/ip-test.sh > /dev/null
